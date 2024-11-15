@@ -1,6 +1,4 @@
 
----
-
 # ToDo List API
 
 ## Overview
@@ -190,5 +188,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 - **Spring Boot**: For providing the base framework.
 - **Swagger**: For API documentation.
 - **H2 Database**: For in-memory database support during development.
-
----
